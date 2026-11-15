@@ -12,7 +12,7 @@ Los videos usan ejercicios distintos: las lecciones 2 y 3 trabajan «Mi rincón 
 - **Duración:** 6:51 min (video publicado).
 - **Descripción:** Reconoce qué es una página web y distingue la estructura HTML de los estilos CSS.
 - **Video:** [Ver la lección 1](https://youtu.be/Ax1QqKz308U).
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Práctica en línea:** [Ver Lección 1 en CodePen](https://codepen.io/Andy777sdw/pen/dPvLNrO).
 - **Código:** [HTML inicial](starter-files/lesson-01/index.html) · [CSS inicial](starter-files/lesson-01/styles.css) · [HTML completo](completed-examples/lesson-01/index.html) · [CSS completo](completed-examples/lesson-01/styles.css).
 - **Guion:** [Lección 1](scripts/lesson-01.md).
 - **Al finalizar:** Modifica el contenido visible de una página.
@@ -23,7 +23,7 @@ Los videos usan ejercicios distintos: las lecciones 2 y 3 trabajan «Mi rincón 
 - **Duración:** 7:45 min (video publicado).
 - **Descripción:** Explora un documento HTML y crea los encabezados de «Mi Rincón Gamer».
 - **Video:** [Ver la lección 2](https://youtu.be/IafEG34yIb4).
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Práctica en línea:** [Ver Lección 2 en CodePen](https://codepen.io/Andy777sdw/pen/LEWvxvZ).
 - **Código:** [HTML inicial](starter-files/lesson-02/index.html) · [CSS inicial](starter-files/lesson-02/styles.css) · [HTML completo](completed-examples/lesson-02/index.html) · [CSS completo](completed-examples/lesson-02/styles.css).
 - **Guion:** [Lección 2](scripts/lesson-02.md).
 - **Al finalizar:** Escribe un documento HTML con títulos y párrafos.
@@ -34,7 +34,7 @@ Los videos usan ejercicios distintos: las lecciones 2 y 3 trabajan «Mi rincón 
 - **Duración:** 9:38 min (video publicado).
 - **Descripción:** Organiza videojuegos y pasos de una aventura con secciones y listas.
 - **Video:** [Ver la lección 3](https://youtu.be/8p9Jx8djYOU).
-- **Práctica en línea:** [Ver Lección 3 en CodePen](https://codepen.io/editor/Eduardo-Taza-Curay/pen/01a1de1b-1704-7d22-8680-afc6c6e91393)
+- **Práctica en línea:** [Ver Lección 3 en CodePen](https://codepen.io/editor/Eduardo-Taza-Curay/pen/01a1de1b-1704-7d22-8680-afc6c6e91393).
 - **Código:** [HTML inicial](starter-files/lesson-03/index.html) · [CSS inicial](starter-files/lesson-03/styles.css) · [HTML completo](completed-examples/lesson-03/index.html) · [CSS completo](completed-examples/lesson-03/styles.css).
 - **Guion:** [Lección 3](scripts/lesson-03.md).
 - **Al finalizar:** Crea listas ordenadas y desordenadas.
