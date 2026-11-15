@@ -11,8 +11,8 @@ Curso introductorio de HTML y CSS para estudiantes de secundaria. Cada lección 
 
 ### Lecciones 3 y 4 — Integrante 2
 
-- **Lección 3: Listas y organización.** [HTML inicial](starter-files/lesson-03/index.html), [CSS inicial](starter-files/lesson-03/styles.css), [HTML completo](completed-examples/lesson-03/index.html), [CSS completo](completed-examples/lesson-03/styles.css) y [guion](scripts/lesson-03.md).
-- **Lección 4: Imágenes y enlaces.** [HTML inicial](starter-files/lesson-04/index.html), [CSS inicial](starter-files/lesson-04/styles.css), [HTML completo](completed-examples/lesson-04/index.html), [CSS completo](completed-examples/lesson-04/styles.css) y [guion](scripts/lesson-04.md).
+- **Lección 3: Listas y organización.** [Video (9:38)](https://youtu.be/8p9Jx8djYOU), [HTML inicial](starter-files/lesson-03/index.html), [CSS inicial](starter-files/lesson-03/styles.css), [HTML completo](completed-examples/lesson-03/index.html), [CSS completo](completed-examples/lesson-03/styles.css) y [guion](scripts/lesson-03.md).
+- **Lección 4: Imágenes y enlaces.** [Video (9:54)](https://youtu.be/1qjHzKaSfeM), [HTML inicial](starter-files/lesson-04/index.html), [CSS inicial](starter-files/lesson-04/styles.css), [HTML completo](completed-examples/lesson-04/index.html), [CSS completo](completed-examples/lesson-04/styles.css) y [guion](scripts/lesson-04.md).
 
 ### Lecciones 5 y 6 — Integrante 3
 

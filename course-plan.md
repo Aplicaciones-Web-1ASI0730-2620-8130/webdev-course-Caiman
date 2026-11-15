@@ -31,9 +31,9 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 3: Listas y organización
 
 - **Responsable:** integrante 2.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 9:38 min (video publicado).
 - **Descripción:** Organiza intereses y metas con secciones y listas.
-- **Video:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección 3](https://youtu.be/8p9Jx8djYOU).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-03/index.html) · [CSS inicial](starter-files/lesson-03/styles.css) · [HTML completo](completed-examples/lesson-03/index.html) · [CSS completo](completed-examples/lesson-03/styles.css).
 - **Guion:** [Lección 3](scripts/lesson-03.md).
@@ -42,9 +42,9 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 4: Imágenes y enlaces
 
 - **Responsable:** integrante 2.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 9:54 min (video publicado).
 - **Descripción:** Añade una imagen con texto alternativo y un enlace funcional.
-- **Video:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección 4](https://youtu.be/1qjHzKaSfeM).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-04/index.html) · [CSS inicial](starter-files/lesson-04/styles.css) · [HTML completo](completed-examples/lesson-04/index.html) · [CSS completo](completed-examples/lesson-04/styles.css).
 - **Guion:** [Lección 4](scripts/lesson-04.md).
