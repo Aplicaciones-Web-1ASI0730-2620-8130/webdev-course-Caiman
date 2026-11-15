@@ -34,7 +34,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 - **Duración:** 9:38 min (video publicado).
 - **Descripción:** Organiza intereses y metas con secciones y listas.
 - **Video:** [Ver la lección 3](https://youtu.be/8p9Jx8djYOU).
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Práctica en línea:** [Ver Lección 3 en CodePen](https://codepen.io/editor/Eduardo-Taza-Curay/pen/01a1de1b-1704-7d22-8680-afc6c6e91393)
 - **Código:** [HTML inicial](starter-files/lesson-03/index.html) · [CSS inicial](starter-files/lesson-03/styles.css) · [HTML completo](completed-examples/lesson-03/index.html) · [CSS completo](completed-examples/lesson-03/styles.css).
 - **Guion:** [Lección 3](scripts/lesson-03.md).
 - **Al finalizar:** Crea listas ordenadas y desordenadas.
@@ -45,7 +45,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 - **Duración:** 9:54 min (video publicado).
 - **Descripción:** Añade una imagen con texto alternativo y un enlace funcional.
 - **Video:** [Ver la lección 4](https://youtu.be/1qjHzKaSfeM).
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Práctica en línea:** [Ver Lección 4 en CodePen](ENLACE_LECCION_4)
 - **Código:** [HTML inicial](starter-files/lesson-04/index.html) · [CSS inicial](starter-files/lesson-04/styles.css) · [HTML completo](completed-examples/lesson-04/index.html) · [CSS completo](completed-examples/lesson-04/styles.css).
 - **Guion:** [Lección 4](scripts/lesson-04.md).
 - **Al finalizar:** Inserta una imagen y un enlace accesible.
