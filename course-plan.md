@@ -55,7 +55,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 - **Responsable:** integrante 3.
 - **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
 - **Descripción:** Aplica reglas CSS mediante selectores de etiqueta y clase.
-- **Video:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección](https://youtu.be/jpsMxTj7Eo0)
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-05/index.html) · [CSS inicial](starter-files/lesson-05/styles.css) · [HTML completo](completed-examples/lesson-05/index.html) · [CSS completo](completed-examples/lesson-05/styles.css).
 - **Guion:** [Lección 5](scripts/lesson-05.md).
@@ -66,7 +66,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 - **Responsable:** integrante 3.
 - **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
 - **Descripción:** Cambia colores, fondos y características de la tipografía.
-- **Video:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección](https://youtu.be/1NXPQnjdnxQ)
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-06/index.html) · [CSS inicial](starter-files/lesson-06/styles.css) · [HTML completo](completed-examples/lesson-06/index.html) · [CSS completo](completed-examples/lesson-06/styles.css).
 - **Guion:** [Lección 6](scripts/lesson-06.md).
