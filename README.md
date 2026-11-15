@@ -21,8 +21,8 @@ Curso introductorio de HTML y CSS para estudiantes de secundaria. Cada lección 
 
 ### Lecciones 7 y 8 — Integrante 4
 
-- **Lección 7: Bordes y espacios.** [HTML inicial](starter-files/lesson-07/index.html), [CSS inicial](starter-files/lesson-07/styles.css), [HTML completo](completed-examples/lesson-07/index.html), [CSS completo](completed-examples/lesson-07/styles.css) y [guion](scripts/lesson-07.md).
-- **Lección 8: Centrado y diseño simple.** [HTML inicial](starter-files/lesson-08/index.html), [CSS inicial](starter-files/lesson-08/styles.css), [HTML completo](completed-examples/lesson-08/index.html), [CSS completo](completed-examples/lesson-08/styles.css) y [guion](scripts/lesson-08.md).
+- **Lección 7: Bordes y espacios.** [Video (3:53)](https://youtu.be/jowFt7hqVPQ), [HTML inicial](starter-files/lesson-07/index.html), [CSS inicial](starter-files/lesson-07/styles.css), [HTML completo](completed-examples/lesson-07/index.html), [CSS completo](completed-examples/lesson-07/styles.css) y [guion](scripts/lesson-07.md).
+- **Lección 8: Centrado y diseño simple.** [Video (4:10)](https://youtu.be/lbFfWDuLxJQ), [Práctica en CodePen](https://codepen.io/editor/Eduardo-Guill-n/pen/01a1e036-a6a2-7f83-bac7-bb8bf5490229), [HTML inicial](starter-files/lesson-08/index.html), [CSS inicial](starter-files/lesson-08/styles.css), [HTML completo](completed-examples/lesson-08/index.html), [CSS completo](completed-examples/lesson-08/styles.css) y [guion](scripts/lesson-08.md).
 
 ### Lecciones 9 y 10 — Integrante 5
 

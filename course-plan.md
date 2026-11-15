@@ -75,9 +75,9 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 7: Bordes y espacios
 
 - **Responsable:** integrante 4.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 3:53 min (video publicado).
 - **Descripción:** Da forma a una tarjeta con bordes y espacios interiores y exteriores.
-- **Video:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección 7](https://youtu.be/jowFt7hqVPQ).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-07/index.html) · [CSS inicial](starter-files/lesson-07/styles.css) · [HTML completo](completed-examples/lesson-07/index.html) · [CSS completo](completed-examples/lesson-07/styles.css).
 - **Guion:** [Lección 7](scripts/lesson-07.md).
@@ -86,10 +86,10 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 8: Centrado y diseño simple
 
 - **Responsable:** integrante 4.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 4:10 min (video publicado).
 - **Descripción:** Limita el ancho y centra una tarjeta adaptable a distintos tamaños de pantalla.
-- **Video:** pendiente de enlace confirmado.
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección 8](https://youtu.be/lbFfWDuLxJQ).
+- **Práctica en línea:** [Abrir ejercicio de centrado en CodePen](https://codepen.io/editor/Eduardo-Guill-n/pen/01a1e036-a6a2-7f83-bac7-bb8bf5490229).
 - **Código:** [HTML inicial](starter-files/lesson-08/index.html) · [CSS inicial](starter-files/lesson-08/styles.css) · [HTML completo](completed-examples/lesson-08/index.html) · [CSS completo](completed-examples/lesson-08/styles.css).
 - **Guion:** [Lección 8](scripts/lesson-08.md).
 - **Al finalizar:** Centra contenido y prueba un ancho reducido.
