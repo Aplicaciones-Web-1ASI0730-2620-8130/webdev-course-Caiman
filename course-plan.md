@@ -56,7 +56,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 - **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
 - **Descripción:** Aplica reglas CSS mediante selectores de etiqueta y clase.
 - **Video:** [Ver la lección](https://youtu.be/jpsMxTj7Eo0)
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Práctica en línea:** [Abrir en CodePen](https://codepen.io/editor/MiguelRomn/pen/01a1dd1d-80e7-7544-921d-ad908265bb0f)
 - **Código:** [HTML inicial](starter-files/lesson-05/index.html) · [CSS inicial](starter-files/lesson-05/styles.css) · [HTML completo](completed-examples/lesson-05/index.html) · [CSS completo](completed-examples/lesson-05/styles.css).
 - **Guion:** [Lección 5](scripts/lesson-05.md).
 - **Al finalizar:** Selecciona elementos HTML mediante CSS.
@@ -67,7 +67,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 - **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
 - **Descripción:** Cambia colores, fondos y características de la tipografía.
 - **Video:** [Ver la lección](https://youtu.be/1NXPQnjdnxQ)
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Práctica en línea:** [Abrir en CodePen](https://codepen.io/editor/MiguelRomn/pen/01a1dd1d-01e6-7537-b93a-d52ce515ae1a)
 - **Código:** [HTML inicial](starter-files/lesson-06/index.html) · [CSS inicial](starter-files/lesson-06/styles.css) · [HTML completo](completed-examples/lesson-06/index.html) · [CSS completo](completed-examples/lesson-06/styles.css).
 - **Guion:** [Lección 6](scripts/lesson-06.md).
 - **Al finalizar:** Personaliza colores y fuentes.
