@@ -3,19 +3,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Reto de diagnóstico web</title>
+  <title>Proyecto: página de perfil</title>
   <link rel="style" href="styles.css">
 </head>
 <body>
-  <main class="tarjeta-reto">
-    <h1>Reto de diagnóstico web
-    <p>Encuentra y corrige los errores de esta página.</p>
-    <img scr="https://api.dicebear.com/9.x/shapes/svg?seed=Reto" alt="Insignia ilustrada del curso" width="90" height="90">
+  <main class="tarjeta-perfil">
+    <img class="foto-perfil" scr="https://api.dicebear.com/9.x/bottts/svg?seed=Alex" alt="Avatar ilustrado de Alex" width="110" height="110">
+    <h1>Alex Rivera
+    <p class="subtitulo">Estudiante y creador web</p>
+    <p class="biografia">¡Hola! Me gustan la tecnología, la música y aprender a crear páginas web.</p>
     <section>
-      <h2>Lo que aprendiste</h2>
-      <ul><li>HTML</li><li>CSS</li></ul>
+      <h2>Mis pasatiempos</h2>
+      <ul class="lista-hobbies">
+        <li>Videojuegos</li>
+        <li>Guitarra</li>
+        <li>Robótica</li>
+      </ul>
     </section>
-    <a class="boton-final" href="https://developer.mozilla.org/es/" target="_blank" rel="noopener noreferrer">Explorar MDN</a>
+    <section>
+      <h2>Enlaces para seguir aprendiendo</h2>
+      <div class="contenedor-botones">
+        <a class="boton" href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noopener noreferrer">Aprender HTML</a>
+        <a class="boton" href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noopener noreferrer">Aprender CSS</a>
+      </div>
+    </section>
   </main>
 </body>
 </html>
