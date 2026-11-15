@@ -1,5 +1,4 @@
-body { background-color: #eef2ff; color: #374151; font-family: Arial, sans-serif; }
-h1 { color: #1e1b4b; font-size: 28px; }
-h2 { color: #3730a3; font-size: 20px; }
-.destacado { color: #4f46e5; font-weight: bold; }
-.tarjeta-perfil { background-color: #ffffff; }
+.caja {
+  width: 200px;
+  /* Añade padding, border y margin al bloque. */
+}

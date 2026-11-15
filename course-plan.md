@@ -2,7 +2,7 @@
 
 Público: estudiantes de secundaria sin experiencia previa. Duración prevista: alrededor de una hora en 10 lecciones. La duración real se registra cuando se publica cada video.
 
-El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza cada vez; la 9 reúne todo en un proyecto; la 10 propone un diagnóstico de errores.
+Los videos usan ejercicios distintos: las lecciones 2 y 3 trabajan «Mi rincón gamer»; la 5 presenta una página de Alex para practicar selectores; la 7 y la 8 muestran bloques independientes. La lección 9 construye un perfil nuevo y la 10 propone corregir errores en ese perfil.
 
 ## Secuencia de lecciones
 
@@ -21,7 +21,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 
 - **Responsable:** integrante 1.
 - **Duración:** 7:45 min (video publicado).
-- **Descripción:** Explora un documento HTML completo y escribe encabezados y párrafos.
+- **Descripción:** Explora un documento HTML y crea los encabezados de «Mi Rincón Gamer».
 - **Video:** [Ver la lección 2](https://youtu.be/IafEG34yIb4).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-02/index.html) · [CSS inicial](starter-files/lesson-02/styles.css) · [HTML completo](completed-examples/lesson-02/index.html) · [CSS completo](completed-examples/lesson-02/styles.css).
@@ -32,7 +32,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 
 - **Responsable:** integrante 2.
 - **Duración:** 9:38 min (video publicado).
-- **Descripción:** Organiza intereses y metas con secciones y listas.
+- **Descripción:** Organiza videojuegos y pasos de una aventura con secciones y listas.
 - **Video:** [Ver la lección 3](https://youtu.be/8p9Jx8djYOU).
 - **Práctica en línea:** [Ver Lección 3 en CodePen](https://codepen.io/editor/Eduardo-Taza-Curay/pen/01a1de1b-1704-7d22-8680-afc6c6e91393)
 - **Código:** [HTML inicial](starter-files/lesson-03/index.html) · [CSS inicial](starter-files/lesson-03/styles.css) · [HTML completo](completed-examples/lesson-03/index.html) · [CSS completo](completed-examples/lesson-03/styles.css).
@@ -45,7 +45,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 - **Duración:** 9:54 min (video publicado).
 - **Descripción:** Añade una imagen con texto alternativo y un enlace funcional.
 - **Video:** [Ver la lección 4](https://youtu.be/1qjHzKaSfeM).
-- **Práctica en línea:** [Ver Lección 4 en CodePen](ENLACE_LECCION_4)
+- **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-04/index.html) · [CSS inicial](starter-files/lesson-04/styles.css) · [HTML completo](completed-examples/lesson-04/index.html) · [CSS completo](completed-examples/lesson-04/styles.css).
 - **Guion:** [Lección 4](scripts/lesson-04.md).
 - **Al finalizar:** Inserta una imagen y un enlace accesible.
@@ -76,7 +76,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 
 - **Responsable:** integrante 4.
 - **Duración:** 3:53 min (video publicado).
-- **Descripción:** Da forma a una tarjeta con bordes y espacios interiores y exteriores.
+- **Descripción:** Usa un bloque sencillo para explicar bordes, padding y margin.
 - **Video:** [Ver la lección 7](https://youtu.be/jowFt7hqVPQ).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-07/index.html) · [CSS inicial](starter-files/lesson-07/styles.css) · [HTML completo](completed-examples/lesson-07/index.html) · [CSS completo](completed-examples/lesson-07/styles.css).
@@ -87,7 +87,7 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 
 - **Responsable:** integrante 4.
 - **Duración:** 4:10 min (video publicado).
-- **Descripción:** Limita el ancho y centra una tarjeta adaptable a distintos tamaños de pantalla.
+- **Descripción:** Limita el ancho y centra un bloque de texto.
 - **Video:** [Ver la lección 8](https://youtu.be/lbFfWDuLxJQ).
 - **Práctica en línea:** [Abrir ejercicio de centrado en CodePen](https://codepen.io/editor/Eduardo-Guill-n/pen/01a1e036-a6a2-7f83-bac7-bb8bf5490229).
 - **Código:** [HTML inicial](starter-files/lesson-08/index.html) · [CSS inicial](starter-files/lesson-08/styles.css) · [HTML completo](completed-examples/lesson-08/index.html) · [CSS completo](completed-examples/lesson-08/styles.css).
@@ -118,4 +118,4 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 
 ## Indicaciones para el editor
 
-En el editor actual de CodePen, crear `index.html` y `styles.css` con los nombres indicados y pegar los archivos completos. En el editor clásico, colocar solo el contenido del `body` en el panel HTML y el contenido de `styles.css` en el panel CSS.
+En este repositorio, cada ejemplo usa `index.html` y `styles.css`. Las prácticas originales de CodePen pueden llamar al CSS `style.css`; si copias desde allí, ajusta el `href` para que coincida. En el editor clásico, coloca solo el contenido del `body` en el panel HTML y el CSS en el panel correspondiente.

@@ -1,25 +1,4 @@
-/* Lección 6: Colores y tipografía (punto de partida: resultado de la Lección 5) */
-
-/* 1. Selector de etiqueta: afecta a TODAS las etiquetas h1 */
-h1 {
-  color: tomato;
-}
-
-h2 {
-  color: teal;
-}
-
-/* 2. Selector de clase: se escribe con un punto y se puede repetir */
-.tarjeta {
-  background-color: lightyellow;
-}
-
-/* 3. Selector de id: se escribe con # y es único en la página */
-#perfil {
-  background-color: lavender;
-}
-
-/* Reto: una clase propia aplicada a un solo elemento */
-.destacado {
-  color: crimson;
+/* Ajusta los colores y la tipografía del ejemplo. */
+body {
+  background-color: #fff8e7;
 }

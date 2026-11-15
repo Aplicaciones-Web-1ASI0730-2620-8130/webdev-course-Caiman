@@ -2,6 +2,10 @@
 
 Curso introductorio de HTML y CSS para estudiantes de secundaria. Cada lección incluye un ejercicio inicial, un ejemplo completo y un guion.
 
+Los archivos de código acompañan el ejercicio de cada video. Las lecciones no forman una única página acumulativa: 2 y 3 usan «Mi rincón gamer», 5 y 6 muestran ejemplos de estilo, 7 y 8 trabajan bloques sencillos, y 9 crea el perfil de Alex Rivera. La lección 10 usa ese perfil para una práctica de corrección.
+
+En las lecciones 2, 3 y 8, el ejemplo completo reproduce el contenido verificable del video o la práctica publicada, adaptando solo el nombre `styles.css` y la estructura del documento para usarlo localmente. Los ejemplos de 1, 4 y 6 son demostraciones de los conceptos mostrados en diapositivas; el de 5 y el de 7 se reconstruyeron a partir de lo visible en pantalla. El perfil de 9 se ajustó al texto y diseño mostrados en el video. Los archivos iniciales son puntos de partida propuestos para practicar, no archivos originales de la grabación.
+
 ## Lecciones
 
 ### Lecciones 1 y 2 — Integrante 1
@@ -34,8 +38,8 @@ Curso introductorio de HTML y CSS para estudiantes de secundaria. Cada lección 
 1. Abre `index.html` y `styles.css` de una misma lección en un editor que admita archivos, como el editor actual de CodePen.
 2. Conserva el nombre `styles.css`: `index.html` lo enlaza desde el elemento `link` dentro de `head`.
 3. Comienza con los archivos de `starter-files` y compara tu resultado con `completed-examples`.
-4. Cada lección funciona por separado. La lección 10 contiene errores intencionales para corregir.
+4. Cada lección funciona por separado. La lección 10 contiene seis errores intencionales para corregir.
 
-El [plan del curso](course-plan.md) describe las diez lecciones. Los videos confirmados están enlazados junto a sus lecciones; los demás videos y las prácticas en línea se añadirán cuando estén disponibles.
+El [plan del curso](course-plan.md) describe las diez lecciones. Los videos confirmados están enlazados junto a sus lecciones; las prácticas en línea pendientes se añadirán cuando estén disponibles.
 
 **Nota para el editor clásico de CodePen:** allí se pega solo el contenido entre `<body>` y `</body>` en el panel HTML, y el contenido de `styles.css` en el panel CSS. El editor actual admite documentos HTML completos.

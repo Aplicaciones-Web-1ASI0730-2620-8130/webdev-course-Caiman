@@ -4,7 +4,7 @@
 
 ## [0:00–0:45] Apertura y conexión con la lección 9
 
-**En pantalla:** Mostrar por unos segundos el perfil final de la lección 9 en CodePen: avatar circular, nombre, biografía, pasatiempos y botones índigo. Después abrir `starter-files/lesson-10/index.html` y `styles.css`, donde se ve el mismo perfil con errores. Rótulo: «LECCIÓN 10/10 — Encuentra y corrige los errores».
+**En pantalla:** Mostrar por unos segundos el perfil final de la lección 9 en CodePen: avatar circular, nombre, biografía, pasatiempos y enlaces «Mis proyectos» y «Mi blog». Después abrir `starter-files/lesson-10/index.html` y `styles.css`, donde se ve el mismo perfil con errores. Rótulo: «LECCIÓN 10/10 — Encuentra y corrige los errores».
 
 **Narración:** «En la lección anterior construimos esta página de perfil desde cero. Escribimos la estructura en `index.html` y le dimos forma con `styles.css`: centramos la tarjeta, redondeamos el avatar y convertimos los enlaces en botones. Ahora imagina que vuelves a abrir el proyecto y ya no se ve igual: faltan colores, la foto no aparece o algún texto perdió su estilo. Eso puede pasar por un carácter mal escrito. Hoy aprenderemos a encontrar y corregir seis errores habituales usando la misma página que acabamos de crear. No te preocupes si alguna vez te ocurre: revisar y corregir también forma parte de programar».
 
@@ -60,4 +60,4 @@
 
 **En pantalla:** Mostrar el perfil reparado y abrir brevemente uno de sus enlaces. Rótulo: «Reto final: personaliza y comparte tu página».
 
-**Narración:** «En este curso pasamos de una página vacía a un perfil con estructura, imagen, listas, enlaces, colores y diseño. Ya tienes las bases para crear otra página por tu cuenta. Como reto, cambia el nombre, los intereses y los colores del perfil, añade una sección nueva y revisa cómo se ve en una ventana estrecha. Si necesitas consultar una etiqueta o una propiedad, visita MDN Web Docs. Y cuando te sientas cómodo con HTML y CSS, puedes seguir con JavaScript. ¡Gracias por acompañarnos hasta la última lección y mucho éxito con tu próxima página!».
+**Narración:** «En este curso vimos estructura, imagen, listas, enlaces, colores y diseño en ejercicios distintos, y después construimos un perfil completo. Ya tienes las bases para crear otra página por tu cuenta. Como reto, cambia el nombre, los intereses y los colores del perfil, añade una sección nueva y revisa cómo se ve en una ventana estrecha. Si necesitas consultar una etiqueta o una propiedad, visita MDN Web Docs. Y cuando te sientas cómodo con HTML y CSS, puedes seguir con JavaScript. ¡Gracias por acompañarnos hasta la última lección y mucho éxito con tu próxima página!».
