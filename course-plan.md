@@ -1,6 +1,6 @@
 # Plan de curso — Fundamentos de desarrollo web con HTML y CSS
 
-Público: estudiantes de secundaria sin experiencia previa. Duración prevista: 10 lecciones de 6 a 8 minutos cada una (60 a 80 minutos en total). La duración real se registrará tras grabar cada video.
+Público: estudiantes de secundaria sin experiencia previa. Duración prevista: alrededor de una hora en 10 lecciones. La duración real se registra cuando se publica cada video.
 
 El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza cada vez; la 9 reúne todo en un proyecto; la 10 propone un diagnóstico de errores.
 
@@ -9,9 +9,9 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 1: ¿Qué es un sitio web?
 
 - **Responsable:** integrante 1.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 6:51 min (video publicado).
 - **Descripción:** Reconoce qué es una página web y distingue la estructura HTML de los estilos CSS.
-- **Video:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección 1](https://youtu.be/Ax1QqKz308U).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-01/index.html) · [CSS inicial](starter-files/lesson-01/styles.css) · [HTML completo](completed-examples/lesson-01/index.html) · [CSS completo](completed-examples/lesson-01/styles.css).
 - **Guion:** [Lección 1](scripts/lesson-01.md).
@@ -20,9 +20,9 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 2: Estructura HTML y textos
 
 - **Responsable:** integrante 1.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 7:45 min (video publicado).
 - **Descripción:** Explora un documento HTML completo y escribe encabezados y párrafos.
-- **Video:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección 2](https://youtu.be/IafEG34yIb4).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-02/index.html) · [CSS inicial](starter-files/lesson-02/styles.css) · [HTML completo](completed-examples/lesson-02/index.html) · [CSS completo](completed-examples/lesson-02/styles.css).
 - **Guion:** [Lección 2](scripts/lesson-02.md).
@@ -53,9 +53,9 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 5: CSS y selectores
 
 - **Responsable:** integrante 3.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 7:02 min (video publicado).
 - **Descripción:** Aplica reglas CSS mediante selectores de etiqueta y clase.
-- **Video:** [Ver la lección](https://youtu.be/jpsMxTj7Eo0)
+- **Video:** [Ver la lección 5](https://youtu.be/jpsMxTj7Eo0).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-05/index.html) · [CSS inicial](starter-files/lesson-05/styles.css) · [HTML completo](completed-examples/lesson-05/index.html) · [CSS completo](completed-examples/lesson-05/styles.css).
 - **Guion:** [Lección 5](scripts/lesson-05.md).
@@ -64,9 +64,9 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 6: Colores y tipografía
 
 - **Responsable:** integrante 3.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 8:11 min (video publicado).
 - **Descripción:** Cambia colores, fondos y características de la tipografía.
-- **Video:** [Ver la lección](https://youtu.be/1NXPQnjdnxQ)
+- **Video:** [Ver la lección 6](https://youtu.be/1NXPQnjdnxQ).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-06/index.html) · [CSS inicial](starter-files/lesson-06/styles.css) · [HTML completo](completed-examples/lesson-06/index.html) · [CSS completo](completed-examples/lesson-06/styles.css).
 - **Guion:** [Lección 6](scripts/lesson-06.md).
@@ -97,9 +97,9 @@ El hilo conductor es una página personal. Las lecciones 1 a 8 añaden una pieza
 ### Lección 9: Proyecto: página de perfil
 
 - **Responsable:** integrante 5.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 9:15 min (video publicado).
 - **Descripción:** Integra HTML y CSS en una página de perfil personal.
-- **Video:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección 9](https://youtu.be/nb5tPSZFTB4).
 - **Práctica en línea:** pendiente de enlace confirmado.
 - **Código:** [HTML inicial](starter-files/lesson-09/index.html) · [CSS inicial](starter-files/lesson-09/styles.css) · [HTML completo](completed-examples/lesson-09/index.html) · [CSS completo](completed-examples/lesson-09/styles.css).
 - **Guion:** [Lección 9](scripts/lesson-09.md).
