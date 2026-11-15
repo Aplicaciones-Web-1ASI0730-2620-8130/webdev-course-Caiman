@@ -30,8 +30,10 @@ En las lecciones 2, 3 y 8, el ejemplo completo reproduce el contenido verificabl
 
 ### Lecciones 9 y 10 — Integrante 5
 
-- **Lección 9: Proyecto: página de perfil.** [Video (9:15)](https://youtu.be/nb5tPSZFTB4), [HTML inicial](starter-files/lesson-09/index.html), [CSS inicial](starter-files/lesson-09/styles.css), [HTML completo](completed-examples/lesson-09/index.html), [CSS completo](completed-examples/lesson-09/styles.css) y [guion](scripts/lesson-09.md).
-- **Lección 10: Errores comunes y próximos pasos.** [HTML inicial](starter-files/lesson-10/index.html), [CSS inicial](starter-files/lesson-10/styles.css), [HTML completo](completed-examples/lesson-10/index.html), [CSS completo](completed-examples/lesson-10/styles.css) y [guion](scripts/lesson-10.md).
+- **Lección 9: Proyecto: página de perfil.** [Video (9:15)](https://youtu.be/nb5tPSZFTB4), [perfil terminado en CodePen](https://codepen.io/editor/ital1912/pen/01a1e046-2336-72e1-b4f8-096df89a3f0c), [HTML inicial](starter-files/lesson-09/index.html), [CSS inicial](starter-files/lesson-09/styles.css), [HTML completo](completed-examples/lesson-09/index.html), [CSS completo](completed-examples/lesson-09/styles.css) y [guion](scripts/lesson-09.md).
+- **Lección 10: Errores comunes y próximos pasos.** [Video (5:08)](https://youtu.be/kMTSI0_ilMc), [práctica en CodePen](https://codepen.io/editor/ital1912/pen/01a1e07b-22b5-7c52-9c66-1d178fbfece5), [HTML inicial](starter-files/lesson-10/index.html), [CSS inicial](starter-files/lesson-10/styles.css), [HTML completo](completed-examples/lesson-10/index.html), [CSS completo](completed-examples/lesson-10/styles.css) y [guion](scripts/lesson-10.md).
+
+El CodePen enlazado en la lección 10 muestra el perfil sin estilos porque su HTML apunta a `styles.css` y el archivo disponible se llama `style.css`. Los archivos iniciales locales contienen además los seis errores usados en el guion.
 
 ## Cómo usar los archivos
 

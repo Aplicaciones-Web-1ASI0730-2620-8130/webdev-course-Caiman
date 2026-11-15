@@ -100,7 +100,7 @@ Los videos usan ejercicios distintos: las lecciones 2 y 3 trabajan «Mi rincón 
 - **Duración:** 9:15 min (video publicado).
 - **Descripción:** Integra HTML y CSS en una página de perfil personal.
 - **Video:** [Ver la lección 9](https://youtu.be/nb5tPSZFTB4).
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Práctica en línea:** [Ver el perfil terminado en CodePen](https://codepen.io/editor/ital1912/pen/01a1e046-2336-72e1-b4f8-096df89a3f0c).
 - **Código:** [HTML inicial](starter-files/lesson-09/index.html) · [CSS inicial](starter-files/lesson-09/styles.css) · [HTML completo](completed-examples/lesson-09/index.html) · [CSS completo](completed-examples/lesson-09/styles.css).
 - **Guion:** [Lección 9](scripts/lesson-09.md).
 - **Al finalizar:** Termina y personaliza una página de perfil.
@@ -108,10 +108,10 @@ Los videos usan ejercicios distintos: las lecciones 2 y 3 trabajan «Mi rincón 
 ### Lección 10: Errores comunes y próximos pasos
 
 - **Responsable:** integrante 5.
-- **Duración:** 6 a 8 minutos previstos; completar con el tiempo real tras grabar.
+- **Duración:** 5:08 min (video publicado).
 - **Descripción:** Detecta y corrige seis errores frecuentes y elige cómo seguir aprendiendo.
-- **Video:** pendiente de enlace confirmado.
-- **Práctica en línea:** pendiente de enlace confirmado.
+- **Video:** [Ver la lección 10](https://youtu.be/kMTSI0_ilMc).
+- **Práctica en línea:** [Abrir el perfil con CSS por corregir en CodePen](https://codepen.io/editor/ital1912/pen/01a1e07b-22b5-7c52-9c66-1d178fbfece5). En ese Pen, el HTML enlaza `styles.css` y el archivo se llama `style.css`; al hacer coincidir los nombres se recuperan los estilos. Los archivos locales de esta lección contienen los seis errores del guion.
 - **Código:** [HTML inicial](starter-files/lesson-10/index.html) · [CSS inicial](starter-files/lesson-10/styles.css) · [HTML completo](completed-examples/lesson-10/index.html) · [CSS completo](completed-examples/lesson-10/styles.css).
 - **Guion:** [Lección 10](scripts/lesson-10.md).
 - **Al finalizar:** Repara una página con errores de HTML y CSS.
